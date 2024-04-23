@@ -11,7 +11,8 @@
 function add_product_to_cart() {
   // Get the product data from the AJAX request
   $product_data = json_decode(stripslashes($_POST['product']), true);
-  $category = get_term_by('slug', 'blaty', 'product_cat');
+  $category_name = "blaty";
+  $category = get_term_by('slug', $category_name, 'product_cat');
   $category_id = $category->term_id;
   // Create a new product
   $product = new WC_Product();
