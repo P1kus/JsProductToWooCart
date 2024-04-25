@@ -17,4 +17,4 @@ If you have any questions, feel free to contact me.
 
 # License 
 
-This product is under MIT License
+This product is released under MIT License
