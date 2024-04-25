@@ -13,7 +13,3 @@ This code is used as a plugin tailored specifically for a configurator to implem
       };
 
 ## If you have any questions, ask! 
-
-piotrpopiolekk@gmail.com
-
-pikus#4358 @ discord
