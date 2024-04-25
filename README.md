@@ -14,3 +14,7 @@ JS Object sent to plugin:
       };
 
 If you have any questions, feel free to contact me. 
+
+# License 
+
+This product is under MIT License
